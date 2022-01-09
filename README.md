@@ -16,4 +16,17 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHFS&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+#### 🔭 I’m currently working on
+
+- HTML + CSS + Javascript
+- React
+- React Native
+- Typescript
+- Java + Spring Boot
+- Python
+
+#### 🤔 I’m looking for help with
+
+- Haskell
+
+[![PauloHFS's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloHFS&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
