@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PauloHFS&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 #### 🔭 I’m currently working on
 
 - HTML + CSS + Javascript
