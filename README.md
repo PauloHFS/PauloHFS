@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 - NodeJS
 - Java + Spring Boot
 - Python
+- PHP + Laravel
