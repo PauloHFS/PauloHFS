@@ -18,7 +18,7 @@
 * **Bancos de Dados:** PostgreSQL, MongoDB, Redis
 * **Infraestrutura & DevOps:** Docker, Linux, Traefik, Cloudflare, Git, Github Actions, Ansible
 * **Data Science:** Jupyter, Conda
-* **Sistemas Operacionais:** Linux (Ubuntu), Windows, MacOS, Android
+* **Sistemas Operacionais:** Linux, Windows, MacOS, Android
 
 ---
 
