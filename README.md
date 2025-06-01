@@ -1,29 +1,25 @@
+### Olá 👋
 
-<!--
-**PauloHFS/PauloHFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 Projetos Atuais / Áreas de Foco:
 
-Here are some ideas to get you started:
+* Pesquisa e Desenvolvimento no **LACINA/UFCG**
+* Desenvolvimento de soluções na **takeode**
+* Aplicações com **React, React Native, Next.js, Nest.js**
+* Infraestrutura com **Docker, Traefik, Cloudflare Tunnels**
+* Análise e processamento de dados com **Python (Jupyter, Conda)**
+* Desenvolvimento backend com **PHP/Laravel, Node.js**
+* Banco de dados: **PostgreSQL, MongoDB, Redis**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tecnologias e Ferramentas:
 
-### Hi there 👋
+* **Linguagens:** JavaScript, TypeScript, Python, Java, PHP, C, C#
+* **Frontend:** React, Next.js, React Native, Angular, HTML, CSS
+* **Backend:** Node.js, Express.js, Spring Boot, Laravel
+* **Bancos de Dados:** PostgreSQL, MongoDB, Redis
+* **Infraestrutura & DevOps:** Docker, Linux, Traefik, Cloudflare, Git, Github Actions, Ansible
+* **Data Science:** Jupyter, Conda
+* **Sistemas Operacionais:** Linux (Ubuntu), Windows, MacOS, Android
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PauloHFS&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-#### 🔭 I’m currently working on
-
-- HTML + CSS + Javascript
-- React
-- React Native
-- Typescript
-- NodeJS
-- Java + Spring Boot
-- Python
-- PHP + Laravel
